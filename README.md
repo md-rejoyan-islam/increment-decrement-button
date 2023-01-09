@@ -7,5 +7,5 @@
 * JavaScript
 * Raw CSS
 
-*** Live Site Link
+### Live Site Link
 <a href="https://icrement-decrement-button.netlify.app/">Link </a>
