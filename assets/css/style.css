@@ -1,0 +1,38 @@
+.main{
+    margin: 0 auto;
+    margin-top: 100px;
+    transform: scale(2); 
+}
+
+button{
+    padding: 5px;
+    background-color: white;
+    border: none;
+}
+
+#value{
+    padding: 2px 30px;
+    font-size: 20px;
+    border-top:2px solid rgb(233, 227, 227);
+    border-bottom:2px solid rgb(233, 227, 227);
+   
+}
+
+#add{
+    background-color: #14aeeb;
+    border-radius: 0px 4px 4px 0px;
+    border: 2px solid rgb(233, 227, 227);   
+}
+
+#remove{
+    background-color: #14aeeb;
+    border-radius: 4px 0px 0px 4px;
+    border: 2px solid rgb(233, 227, 227);
+}
+
+.reset{
+    margin: auto;
+    margin-top: 25px;
+    transform: scale(1.2);
+    
+}
